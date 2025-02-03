@@ -12,14 +12,14 @@ import image5 from "../assets/todo.png";
 
 const projects = [
   {
-    title: "AI Image Generator",
+    title: "ImageAI",
     description: "An AI-powered image generation tool using DALL-E API.",
     image: image1,
     technologies: ["React", "Node.js", "Express.js", "MongoDB", "OpenAI"],
     githubUrl: "https://github.com/oumarDimnang/image-aigenerator-project",
   },
   {
-    title: "Chat App",
+    title: "Hellothere",
     description:
       "A chat application enabling real-time messaging, media sharing, and seamless communication.",
     image: image2,
@@ -28,7 +28,7 @@ const projects = [
     liveUrl: "https://hellothere-ahfq.onrender.com/",
   },
   {
-    title: "Social Media Platform",
+    title: "Helloworld",
     description:
       "A social media platform enabling seamless content sharing, real-time interactions, and personalized engagement.",
     image: image3,
