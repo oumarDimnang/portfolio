@@ -7,7 +7,7 @@ const technologies = [
   {
     category: "Frontend",
     icon: <Layout className="h-10 w-10 text-primary" />,
-    skills: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    skills: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
     description: "Building beautiful, responsive user interfaces",
   },
   {
@@ -31,13 +31,13 @@ const technologies = [
   {
     category: "Tools",
     icon: <Code2 className="h-10 w-10 text-primary" />,
-    skills: ["Git", "VS Code", "Postman"],
+    skills: ["Git", "GitHub", "VS Code", "Postman"],
     description: "Essential development tools",
   },
   {
     category: "Other",
     icon: <Globe className="h-10 w-10 text-primary" />,
-    skills: ["REST APIs", "WebSockets", "Testing"],
+    skills: ["REST APIs", "WebSockets", "Testing", "NumPy", "Pandas"],
     description: "Additional expertise and protocols",
   },
 ];
