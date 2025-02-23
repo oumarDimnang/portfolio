@@ -50,7 +50,7 @@ const projects = [
     description:
       "A social media platform enabling seamless content sharing, real-time interactions, and personalized engagement.",
     image: image3,
-    technologies: ["Next.js", "TypeScript", "Express.js", "Clerk"],
+    technologies: ["Next.js", "TypeScript", "Express.js", "Clerk", "Prisma"],
     githubUrl: "https://github.com/oumarDimnang/helloworld-project",
     liveUrl: "https://helloworld-project.vercel.app/",
   },
