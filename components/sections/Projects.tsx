@@ -10,22 +10,31 @@ import image3 from "../assets/helloworld.png";
 import image4 from "../assets/snakegame.png";
 import image5 from "../assets/todo.png";
 import image6 from "../assets/hikmahai.jpeg";
+import image7 from "../assets/link.gif";
 
 const projects = [
-  {
-    title: "HikmahAI",
-    description:
-      "A website that raises awareness about responsibility of using AI",
-    image: image6,
-    technologies: ["React", "DaisyUI", "Remini"],
-    githubUrl: "https://github.com/oumarDimnang/HikmahAI-project",
-  },
   {
     title: "ImageAI",
     description: "An AI-powered image generation tool using DALL-E API.",
     image: image1,
     technologies: ["React", "Node.js", "Express.js", "MongoDB", "OpenAI"],
     githubUrl: "https://github.com/oumarDimnang/image-aigenerator-project",
+  },
+  {
+    title: "LINK",
+    description:
+      "An AI-Driven Threat Intelligence platform that predicts, detects, and responds towards Zero-Day Attacks. (CyberGuards Hackathon)",
+    image: image7,
+    technologies: [
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "Python",
+      "Pandas",
+      "NumPy",
+    ],
+    githubUrl: "https://github.com/oumarDimnang/link-landingpage-project",
+    liveUrl: "https://link-landingpage-project.vercel.app/",
   },
   {
     title: "Hellothere",
@@ -44,6 +53,15 @@ const projects = [
     technologies: ["Next.js", "TypeScript", "Express.js", "Clerk"],
     githubUrl: "https://github.com/oumarDimnang/helloworld-project",
     liveUrl: "https://helloworld-project.vercel.app/",
+  },
+  {
+    title: "HikmahAI",
+    description:
+      "A website that raises awareness about responsibility of using AI (AUBH GenAI Hackathon).",
+    image: image6,
+    technologies: ["React", "DaisyUI", "Remini"],
+    githubUrl: "https://github.com/oumarDimnang/HikmahAI-project",
+    liveUrl: "https://hikmah-ai-project.vercel.app/",
   },
   {
     title: "Snake Game",
