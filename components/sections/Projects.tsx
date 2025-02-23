@@ -9,8 +9,17 @@ import image2 from "../assets/hellothere.png";
 import image3 from "../assets/helloworld.png";
 import image4 from "../assets/snakegame.png";
 import image5 from "../assets/todo.png";
+import image6 from "../assets/hikmahai.jpeg";
 
 const projects = [
+  {
+    title: "HikmahAI",
+    description:
+      "A website that raises awareness about responsibility of using AI",
+    image: image6,
+    technologies: ["React", "DaisyUI", "Remini"],
+    githubUrl: "https://github.com/oumarDimnang/HikmahAI-project",
+  },
   {
     title: "ImageAI",
     description: "An AI-powered image generation tool using DALL-E API.",
