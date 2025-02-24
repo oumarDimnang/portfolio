@@ -7,13 +7,21 @@ const technologies = [
   {
     category: "Frontend",
     icon: <Layout className="h-10 w-10 text-primary" />,
-    skills: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+    skills: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "Jest",
+      "Tailwind CSS",
+      "Webpack",
+    ],
     description: "Building beautiful, responsive user interfaces",
   },
   {
     category: "Backend",
     icon: <Server className="h-10 w-10 text-primary" />,
-    skills: ["Node.js", "Express.js"],
+    skills: ["Node.js", "Express.js", "Jest"],
     description: "Creating robust server-side applications",
   },
   {
