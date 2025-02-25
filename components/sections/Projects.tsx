@@ -95,7 +95,7 @@ export default function Projects() {
         >
           <h2 className="text-4xl font-bold mb-4">Projects</h2>
           <p className="text-lg text-muted-foreground">
-            Some of my recent work // first and last project live demo disabled
+            Some of my recent work
           </p>
         </motion.div>
 
