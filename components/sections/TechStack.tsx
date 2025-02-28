@@ -39,7 +39,7 @@ const technologies = [
   {
     category: "Tools",
     icon: <Code2 className="h-10 w-10 text-primary" />,
-    skills: ["Git", "GitHub", "VS Code", "Postman"],
+    skills: ["Figma", "Git", "GitHub", "VS Code", "Postman"],
     description: "Essential development tools",
   },
   {
